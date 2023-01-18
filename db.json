@@ -1,14 +1,11 @@
-[
+{
+  "posts": [
     {
       "id": 1,
-      "title": "aaa 1"
-    },
-    {
-      "id": 2,
-      "title": "vbb 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
