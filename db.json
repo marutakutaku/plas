@@ -22,13 +22,18 @@
     {"id": "A-020","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
     {"id": "A-021","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
     {"id": "A-022","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-023","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-024","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-025","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-026","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-027","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-028","status":"failure","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-029","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-030","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"}
-  ]
+    {"id": "A-023","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"}
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
