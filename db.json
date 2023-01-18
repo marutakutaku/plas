@@ -29,26 +29,6 @@
     {"id": "A-027","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
     {"id": "A-028","status":"failure","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
     {"id": "A-029","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-030","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-031","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-032","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-033","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-034","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-035","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-036","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-037","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-038","status":"application","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-039","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-040","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-041","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-042","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-043","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-044","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-045","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-046","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-047","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-048","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-049","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"},
-    {"id": "A-050","status":"busy","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"}
+    {"id": "A-030","status":"available","category1":"カテゴリ大","category2":"カテゴリ中","category3":"カテゴリ小"}
   ]
 }
